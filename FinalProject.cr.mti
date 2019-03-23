@@ -1,0 +1,190 @@
+C:/Users/wang/Desktop/Winter/CE622/FinalpProject/FinalProject-FinalVersion/registers.vhd {1 {vcom -work work -2002 -explicit C:/Users/wang/Desktop/Winter/CE622/FinalpProject/FinalProject-FinalVersion/registers.vhd
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity registers
+-- Compiling architecture behave of registers
+
+} {} {}} C:/Users/wang/Desktop/Winter/CE622/FinalpProject/FinalProject-FinalVersion/PredEvalu.vhd {1 {vcom -work work -2002 -explicit C:/Users/wang/Desktop/Winter/CE622/FinalpProject/FinalProject-FinalVersion/PredEvalu.vhd
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity PredEvalu
+-- Compiling architecture behave of PredEvalu
+
+} {} {}} C:/Users/wang/Desktop/Winter/CE622/FinalpProject/FinalProject-FinalVersion/mipspack.vhd {1 {vcom -work work -2002 -explicit C:/Users/wang/Desktop/Winter/CE622/FinalpProject/FinalProject-FinalVersion/mipspack.vhd
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Compiling package mipspack
+
+} {} {}} C:/Users/wang/Desktop/Winter/CE622/FinalpProject/FinalProject-FinalVersion/imem.vhd {1 {vcom -work work -2002 -explicit C:/Users/wang/Desktop/Winter/CE622/FinalpProject/FinalProject-FinalVersion/imem.vhd
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity imem
+-- Compiling architecture behave of imem
+
+} {} {}} C:/Users/wang/Desktop/Winter/CE622/FinalpProject/FinalProject-FinalVersion/alubit.vhd {1 {vcom -work work -2002 -explicit C:/Users/wang/Desktop/Winter/CE622/FinalpProject/FinalProject-FinalVersion/alubit.vhd
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Compiling entity alubit
+-- Compiling architecture behavioral of alubit
+
+} {} {}} C:/Users/wang/Desktop/Winter/CE622/FinalpProject/FinalProject-FinalVersion/add.vhd {1 {vcom -work work -2002 -explicit C:/Users/wang/Desktop/Winter/CE622/FinalpProject/FinalProject-FinalVersion/add.vhd
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity add
+-- Compiling architecture behave of add
+
+} {} {}} C:/Users/wang/Desktop/Winter/CE622/FinalpProject/FinalProject-FinalVersion/signext.vhd {1 {vcom -work work -2002 -explicit C:/Users/wang/Desktop/Winter/CE622/FinalpProject/FinalProject-FinalVersion/signext.vhd
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Compiling entity signext
+-- Compiling architecture dataflow of signext
+
+} {} {}} C:/Users/wang/Desktop/Winter/CE622/FinalpProject/FinalProject-FinalVersion/pipelined.vhd {1 {vcom -work work -2002 -explicit C:/Users/wang/Desktop/Winter/CE622/FinalpProject/FinalProject-FinalVersion/pipelined.vhd
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Loading package mipspack
+-- Compiling entity pipelined
+-- Compiling architecture struct of pipelined
+
+} {} {}} C:/Users/wang/Desktop/Winter/CE622/FinalpProject/FinalProject-FinalVersion/FU.vhd {1 {vcom -work work -2002 -explicit C:/Users/wang/Desktop/Winter/CE622/FinalpProject/FinalProject-FinalVersion/FU.vhd
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Compiling entity FU
+-- Compiling architecture dataflow of FU
+
+} {} {}} C:/Users/wang/Desktop/Winter/CE622/FinalpProject/FinalProject-FinalVersion/dmem.vhd {1 {vcom -work work -2002 -explicit C:/Users/wang/Desktop/Winter/CE622/FinalpProject/FinalProject-FinalVersion/dmem.vhd
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity dmem
+-- Compiling architecture behave of dmem
+
+} {} {}} C:/Users/wang/Desktop/Winter/CE622/FinalpProject/FinalProject-FinalVersion/pc_sub.vhd {1 {vcom -work work -2002 -explicit C:/Users/wang/Desktop/Winter/CE622/FinalpProject/FinalProject-FinalVersion/pc_sub.vhd
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity pc_sub
+-- Compiling architecture behave of pc_sub
+
+} {} {}} C:/Users/wang/Desktop/Winter/CE622/FinalpProject/FinalProject-FinalVersion/alumsb.vhd {1 {vcom -work work -2002 -explicit C:/Users/wang/Desktop/Winter/CE622/FinalpProject/FinalProject-FinalVersion/alumsb.vhd
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Compiling entity alumsb
+-- Compiling architecture behavioral of alumsb
+
+} {} {}} C:/Users/wang/Desktop/Winter/CE622/FinalpProject/FinalProject-FinalVersion/and2.vhd {1 {vcom -work work -2002 -explicit C:/Users/wang/Desktop/Winter/CE622/FinalpProject/FinalProject-FinalVersion/and2.vhd
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Compiling entity and3
+-- Compiling architecture dataflow of and3
+
+} {} {}} C:/Users/wang/Desktop/Winter/CE622/FinalpProject/FinalProject-FinalVersion/PredC.vhd {1 {vcom -work work -2002 -explicit C:/Users/wang/Desktop/Winter/CE622/FinalpProject/FinalProject-FinalVersion/PredC.vhd
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity PredC
+-- Compiling architecture behave of PredC
+
+} {} {}} C:/Users/wang/Desktop/Winter/CE622/FinalpProject/FinalProject-FinalVersion/and3.vhd {1 {vcom -work work -2002 -explicit C:/Users/wang/Desktop/Winter/CE622/FinalpProject/FinalProject-FinalVersion/and3.vhd
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Compiling entity and3
+-- Compiling architecture dataflow of and3
+
+} {} {}} C:/Users/wang/Desktop/Winter/CE622/FinalpProject/FinalProject-FinalVersion/mux32.vhd {1 {vcom -work work -2002 -explicit C:/Users/wang/Desktop/Winter/CE622/FinalpProject/FinalProject-FinalVersion/mux32.vhd
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Compiling entity mux32
+-- Compiling architecture dataflow of mux32
+
+} {} {}} C:/Users/wang/Desktop/Winter/CE622/FinalpProject/FinalProject-FinalVersion/sl2.vhd {1 {vcom -work work -2002 -explicit C:/Users/wang/Desktop/Winter/CE622/FinalpProject/FinalProject-FinalVersion/sl2.vhd
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Compiling entity sl2
+-- Compiling architecture dataflow of sl2
+
+} {} {}} C:/Users/wang/Desktop/Winter/CE622/FinalpProject/FinalProject-FinalVersion/control.vhd {1 {vcom -work work -2002 -explicit C:/Users/wang/Desktop/Winter/CE622/FinalpProject/FinalProject-FinalVersion/control.vhd
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Compiling entity control
+-- Compiling architecture behave of control
+
+} {} {}} C:/Users/wang/Desktop/Winter/CE622/FinalpProject/FinalProject-FinalVersion/sub.vhd {1 {vcom -work work -2002 -explicit C:/Users/wang/Desktop/Winter/CE622/FinalpProject/FinalProject-FinalVersion/sub.vhd
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity sub1
+-- Compiling architecture behave of sub1
+
+} {} {}} C:/Users/wang/Desktop/Winter/CE622/FinalpProject/FinalProject-FinalVersion/alu.vhd {1 {vcom -work work -2002 -explicit C:/Users/wang/Desktop/Winter/CE622/FinalpProject/FinalProject-FinalVersion/alu.vhd
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Compiling entity alu
+-- Compiling architecture struct of alu
+
+} {} {}} C:/Users/wang/Desktop/Winter/CE622/FinalpProject/FinalProject-FinalVersion/PredBTB.vhd {1 {vcom -work work -2002 -explicit C:/Users/wang/Desktop/Winter/CE622/FinalpProject/FinalProject-FinalVersion/PredBTB.vhd
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity PredBTB
+-- Compiling architecture behave of PredBTB
+
+} {} {}} C:/Users/wang/Desktop/Winter/CE622/FinalpProject/FinalProject-FinalVersion/pc.vhd {1 {vcom -work work -2002 -explicit C:/Users/wang/Desktop/Winter/CE622/FinalpProject/FinalProject-FinalVersion/pc.vhd
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity pc
+-- Compiling architecture proc of pc
+
+} {} {}} C:/Users/wang/Desktop/Winter/CE622/FinalpProject/FinalProject-FinalVersion/ALUcontrol.vhd {1 {vcom -work work -2002 -explicit C:/Users/wang/Desktop/Winter/CE622/FinalpProject/FinalProject-FinalVersion/ALUcontrol.vhd
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Compiling entity ALUcontrol
+-- Compiling architecture dataflow of ALUcontrol
+
+} {} {}} C:/Users/wang/Desktop/Winter/CE622/FinalpProject/FinalProject-FinalVersion/mux3.vhd {1 {vcom -work work -2002 -explicit C:/Users/wang/Desktop/Winter/CE622/FinalpProject/FinalProject-FinalVersion/mux3.vhd
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Compiling entity mux3
+-- Compiling architecture dataflow of mux3
+
+} {} {}} C:/Users/wang/Desktop/Winter/CE622/FinalpProject/FinalProject-FinalVersion/mux5.vhd {1 {vcom -work work -2002 -explicit C:/Users/wang/Desktop/Winter/CE622/FinalpProject/FinalProject-FinalVersion/mux5.vhd
+Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+-- Loading package STANDARD
+-- Compiling entity mux5
+-- Compiling architecture dataflow of mux5
+
+} {} {}}
