@@ -20,4 +20,4 @@ Create a new working project integrated with all .vhd files.
 Compile the project.
 Test the project with the pipelined_prediction.do file.
 
-# More detailed instruction can be found in the Project Report for Computer Arithmetic Course CE622.pdf
+# More detailed branch prediction background knowledge and test analyzing can be found in the Project Report for Computer Arithmetic Course CE622.pdf
